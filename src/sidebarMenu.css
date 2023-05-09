@@ -1,0 +1,6 @@
+.sidebarMenu {
+  display: flex;
+  width: 200px;
+  border: 1px solid black;
+  align-items: flex-start;
+}
